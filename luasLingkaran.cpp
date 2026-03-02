@@ -7,3 +7,7 @@ void input(){
     cout << "Masukkan jari-jari: ";
     cin >> r;
 }
+
+float luas(float a){
+    return phi*(a*a);
+}
