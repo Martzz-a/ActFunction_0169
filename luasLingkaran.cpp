@@ -15,3 +15,8 @@ float luas(float a){
 void output(){
     cout << "Luas = " << luas(r);
 }
+
+int main(){
+    input();
+    output();
+}
