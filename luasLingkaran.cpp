@@ -2,3 +2,8 @@
 using namespace std;
 
 float r, phi = 3.14159;
+
+void input(){
+    cout << "Masukkan jari-jari: ";
+    cin >> r;
+}
